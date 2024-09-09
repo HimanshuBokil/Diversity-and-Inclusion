@@ -49,7 +49,34 @@ This might encompass mentorship and sponsorship initiatives, programs for leader
 * 3. Only 1.60% (FY20) and 3.60% (FY21) women were promoted. (Promotion)
 * 4. No women hires for age group of 50-59 and 60-69. (Hiring)
 * 5. Performance rating has reduced to 2.41 (FY20) from 2.57 (FY19) (Performance)
-* 6. The turnover rate is 9.40% with 26 men and 21 women. (Turnover) 
+* 6. The turnover rate is 9.40% with 26 men and 21 women. (Turnover)
+
+# Dashboards  
+
+# Hiring
+![D I ](https://github.com/user-attachments/assets/28abfbd0-e156-4a9c-944b-5073e4e8927f)
+
+# Promotion
+![D I 2](https://github.com/user-attachments/assets/84330443-488c-412f-91a2-db088f1c991f)
+
+# Performance Rating
+![D I 3](https://github.com/user-attachments/assets/71fa70a8-be35-464a-a0c2-d576ecc5b86d)
+
+# Turnover
+![D I 4](https://github.com/user-attachments/assets/fe79c942-0cf3-447f-93f2-0c207553fd9f)
+
+
+Thank You.
+
+
+
+
+
+
+
+
+
+
 
 
 
